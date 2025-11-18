@@ -1,0 +1,2553 @@
+[
+  {
+    "_id": "688c6e57122b0a14744308aa",
+    "name": "RAHANTAMALALA Vololoniriana Ernestine",
+    "number_card": "18040774",
+    "items": [
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "688c6e57122b0a14744308ab"
+      }
+    ],
+    "createdAt": "2025-08-01T07:35:51.403Z",
+    "updatedAt": "2025-08-01T07:35:51.403Z",
+    "__v": 0
+  },
+  {
+    "_id": "688c88b9122b0a14744309c1",
+    "name": "RAZANANAIVO  Fenonirina Seheno",
+    "number_card": "18032137",
+    "items": [
+      {
+        "name": "Pine Pollen Tea",
+        "bv": 14,
+        "price": 50400,
+        "quantity": 1,
+        "_id": "688c88b9122b0a14744309c2"
+      },
+      {
+        "name": "Hangfang Beauty  Milk Soap (Olive soap)",
+        "bv": 1,
+        "price": 7200,
+        "quantity": 3,
+        "_id": "688c88b9122b0a14744309c3"
+      },
+      {
+        "name": "Quick Absorption Blue Sanitary Napkin",
+        "bv": 2,
+        "price": 10000,
+        "quantity": 1,
+        "_id": "688c88b9122b0a14744309c4"
+      }
+    ],
+    "createdAt": "2025-08-01T09:28:25.328Z",
+    "updatedAt": "2025-08-01T09:28:25.328Z",
+    "__v": 0
+  },
+  {
+    "_id": "6891c6be6078ee290c36f115",
+    "name": "JOSEPH Stephane Rakotorahalahy",
+    "number_card": "18063188",
+    "items": [
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "6891c6be6078ee290c36f116"
+      },
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "6891c6be6078ee290c36f117"
+      },
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "6891c6be6078ee290c36f118"
+      },
+      {
+        "name": "Soybean Lecithin Softgel",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "6891c6be6078ee290c36f119"
+      },
+      {
+        "name": "Vitamine C Tablet",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "6891c6be6078ee290c36f11a"
+      }
+    ],
+    "createdAt": "2025-08-05T08:54:22.358Z",
+    "updatedAt": "2025-08-05T08:54:22.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "68932d49e456a7d48f48348f",
+    "name": "RASITRAKINIAINA Nampinjanahary Rogine",
+    "number_card": "18041614",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68932d49e456a7d48f483490"
+      },
+      {
+        "name": "Blood Cleanse Capsule",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 1,
+        "_id": "68932d49e456a7d48f483491"
+      },
+      {
+        "name": "Deep Sea Fish Oil Softgel (omega-3)",
+        "bv": 25,
+        "price": 90000,
+        "quantity": 1,
+        "_id": "68932d49e456a7d48f483492"
+      },
+      {
+        "name": "Quick Absorption Blue Sanitary Napkin",
+        "bv": 2,
+        "price": 10000,
+        "quantity": 1,
+        "_id": "68932d49e456a7d48f483493"
+      },
+      {
+        "name": "CoQ-10 Capsule",
+        "bv": 27,
+        "price": 97200,
+        "quantity": 1,
+        "_id": "68932d49e456a7d48f483494"
+      },
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "68932d49e456a7d48f483495"
+      }
+    ],
+    "createdAt": "2025-08-06T10:24:09.237Z",
+    "updatedAt": "2025-08-06T10:24:09.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "68933724e456a7d48f4836db",
+    "name": "RAOBELISON Fidy Denis Eric",
+    "number_card": "18041698",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68933724e456a7d48f4836dc"
+      },
+      {
+        "name": "Ginko Biloba Capsule",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68933724e456a7d48f4836dd"
+      }
+    ],
+    "createdAt": "2025-08-06T11:06:12.169Z",
+    "updatedAt": "2025-08-06T11:06:12.169Z",
+    "__v": 0
+  },
+  {
+    "_id": "689338a7e456a7d48f483807",
+    "name": "RANAIVO Rakotoarisaina de Manatoa Lila",
+    "number_card": "18063171",
+    "items": [
+      {
+        "name": "Hangfang Beauty  Milk Soap (Olive soap)",
+        "bv": 1,
+        "price": 7200,
+        "quantity": 1,
+        "_id": "689338a7e456a7d48f483808"
+      }
+    ],
+    "createdAt": "2025-08-06T11:12:39.143Z",
+    "updatedAt": "2025-08-06T11:12:39.143Z",
+    "__v": 0
+  },
+  {
+    "_id": "68945778e456a7d48f483a55",
+    "name": "RABEKOTO Andrianina",
+    "number_card": "18011441",
+    "items": [
+      {
+        "name": "Balsam Pear Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "68945778e456a7d48f483a56"
+      },
+      {
+        "name": "Diasure Capsule (Glucobloc)",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 2,
+        "_id": "68945778e456a7d48f483a57"
+      }
+    ],
+    "createdAt": "2025-08-07T07:36:24.087Z",
+    "updatedAt": "2025-08-07T07:36:24.087Z",
+    "__v": 0
+  },
+  {
+    "_id": "68947bdee456a7d48f483b83",
+    "name": "FANOMEZANTSOA  Dieu Donné",
+    "number_card": "18063187",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68947bdee456a7d48f483b84"
+      },
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "68947bdee456a7d48f483b85"
+      },
+      {
+        "name": "Kidney Tonifying Capsule Man",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "68947bdee456a7d48f483b86"
+      },
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 2,
+        "_id": "68947bdee456a7d48f483b87"
+      },
+      {
+        "name": "Joint Health Capsule (Arthropower)",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 1,
+        "_id": "68947bdee456a7d48f483b88"
+      }
+    ],
+    "createdAt": "2025-08-07T10:11:42.359Z",
+    "updatedAt": "2025-08-07T10:11:42.359Z",
+    "__v": 0
+  },
+  {
+    "_id": "68948414e456a7d48f483cb2",
+    "name": "FANOMEZANTSOA  Dieu Donné",
+    "number_card": "18063187",
+    "items": [
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68948414e456a7d48f483cb3"
+      },
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "68948414e456a7d48f483cb4"
+      },
+      {
+        "name": "Kidney Tonifying Capsule Man",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "68948414e456a7d48f483cb5"
+      },
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "68948414e456a7d48f483cb6"
+      },
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68948414e456a7d48f483cb7"
+      }
+    ],
+    "createdAt": "2025-08-07T10:46:44.767Z",
+    "updatedAt": "2025-08-07T10:46:44.767Z",
+    "__v": 0
+  },
+  {
+    "_id": "6895a777f184a135eb43489a",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Joint Health Capsule (Arthropower)",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 1,
+        "_id": "6895a777f184a135eb43489b"
+      },
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "6895a777f184a135eb43489c"
+      },
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "6895a777f184a135eb43489d"
+      }
+    ],
+    "createdAt": "2025-08-08T07:29:59.842Z",
+    "updatedAt": "2025-08-08T07:29:59.842Z",
+    "__v": 0
+  },
+  {
+    "_id": "6895ab76f184a135eb434d5f",
+    "name": "RAZAFIARISOA Marie Suzanne",
+    "number_card": "18063127",
+    "items": [
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "6895ab76f184a135eb434d60"
+      },
+      {
+        "name": "Vitamine C Tablet",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "6895ab76f184a135eb434d61"
+      }
+    ],
+    "createdAt": "2025-08-08T07:47:02.016Z",
+    "updatedAt": "2025-08-08T07:47:02.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "6895b319f184a135eb434e95",
+    "name": "RAVAONIRINA Victoire",
+    "number_card": "18061846",
+    "items": [
+      {
+        "name": "Soy Power Capsule",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 1,
+        "_id": "6895b319f184a135eb434e96"
+      },
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "6895b319f184a135eb434e97"
+      }
+    ],
+    "createdAt": "2025-08-08T08:19:37.972Z",
+    "updatedAt": "2025-08-08T08:19:37.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "6895b34bf184a135eb434fcd",
+    "name": "VONIARISOA Marie Claire",
+    "number_card": "18061909",
+    "items": [
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "6895b34bf184a135eb434fce"
+      },
+      {
+        "name": "Spirulina Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "6895b34bf184a135eb434fcf"
+      }
+    ],
+    "createdAt": "2025-08-08T08:20:27.840Z",
+    "updatedAt": "2025-08-08T08:20:27.840Z",
+    "__v": 0
+  },
+  {
+    "_id": "6895b36ff184a135eb435107",
+    "name": "SAHONDRANIRINA Aimée Hortencia",
+    "number_card": "18062754",
+    "items": [
+      {
+        "name": "Deep Sea Fish Oil Softgel (omega-3)",
+        "bv": 25,
+        "price": 90000,
+        "quantity": 1,
+        "_id": "6895b36ff184a135eb435108"
+      }
+    ],
+    "createdAt": "2025-08-08T08:21:03.801Z",
+    "updatedAt": "2025-08-08T08:21:03.801Z",
+    "__v": 0
+  },
+  {
+    "_id": "6895bb58f184a135eb435241",
+    "name": "HERIMIDOSY Philippe",
+    "number_card": "18032439",
+    "items": [
+      {
+        "name": "Jiu Qing Qing (Wake)",
+        "bv": 10,
+        "price": 36000,
+        "quantity": 1,
+        "_id": "6895bb58f184a135eb435242"
+      },
+      {
+        "name": "Clear Lung Tea",
+        "bv": 14,
+        "price": 50400,
+        "quantity": 1,
+        "_id": "6895bb58f184a135eb435243"
+      }
+    ],
+    "createdAt": "2025-08-08T08:54:48.247Z",
+    "updatedAt": "2025-08-08T08:54:48.247Z",
+    "__v": 0
+  },
+  {
+    "_id": "68999db2ba3bc228b980deec",
+    "name": "CHAMI Rakotomalala",
+    "number_card": "18069900",
+    "items": [
+      {
+        "name": "Kidney Tonifying Capsule Women",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "68999db2ba3bc228b980deed"
+      },
+      {
+        "name": "Royal Jelly Softgel",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68999db2ba3bc228b980deee"
+      }
+    ],
+    "createdAt": "2025-08-11T07:37:22.404Z",
+    "updatedAt": "2025-08-11T07:37:22.404Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899a37bba3bc228b980e02b",
+    "name": "NIRINARISOA  Jeanne Christine",
+    "number_card": "18062690",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "6899a37bba3bc228b980e02c"
+      },
+      {
+        "name": "Digestant Tablet (Gastric Health)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "6899a37bba3bc228b980e02d"
+      },
+      {
+        "name": "CoQ-10 Capsule",
+        "bv": 27,
+        "price": 97200,
+        "quantity": 1,
+        "_id": "6899a37bba3bc228b980e02e"
+      },
+      {
+        "name": "Vitamine E",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "6899a37bba3bc228b980e02f"
+      },
+      {
+        "name": "Jiu Qing Qing (Wake)",
+        "bv": 10,
+        "price": 36000,
+        "quantity": 1,
+        "_id": "6899a37bba3bc228b980e030"
+      }
+    ],
+    "createdAt": "2025-08-11T08:02:03.369Z",
+    "updatedAt": "2025-08-11T08:02:03.369Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899cbe6ba3bc228b980e17a",
+    "name": "TAFITASOA Haingonirina Felistine Erica",
+    "number_card": "18063185",
+    "items": [
+      {
+        "name": "Engrais (Nutriplant)",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "6899cbe6ba3bc228b980e17b"
+      }
+    ],
+    "createdAt": "2025-08-11T10:54:30.015Z",
+    "updatedAt": "2025-08-11T10:54:30.015Z",
+    "__v": 0
+  },
+  {
+    "_id": "689af463e7d17aea04a08dbf",
+    "name": "RAZOARIMALALA Mirana Yrène",
+    "number_card": "18061854",
+    "items": [
+      {
+        "name": "Quick Absorption Blue Sanitary Napkin",
+        "bv": 2,
+        "price": 10000,
+        "quantity": 1,
+        "_id": "689af463e7d17aea04a08dc0"
+      }
+    ],
+    "createdAt": "2025-08-12T07:59:31.175Z",
+    "updatedAt": "2025-08-12T07:59:31.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "689afa39e7d17aea04a08f0b",
+    "name": "RAFALIMANANTSOA Johary Andrianjaka",
+    "number_card": "18065357",
+    "items": [
+      {
+        "name": "Balsam Pear Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "689afa39e7d17aea04a08f0c"
+      },
+      {
+        "name": "Eye Care Softgel",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 1,
+        "_id": "689afa39e7d17aea04a08f0d"
+      },
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "689afa39e7d17aea04a08f0e"
+      },
+      {
+        "name": "β-Carotene & Lycopene Capsule",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "689afa39e7d17aea04a08f0f"
+      }
+    ],
+    "createdAt": "2025-08-12T08:24:25.875Z",
+    "updatedAt": "2025-08-12T08:24:25.875Z",
+    "__v": 0
+  },
+  {
+    "_id": "689b047be7d17aea04a09057",
+    "name": "RAHERILALAINA Tahinjanahary",
+    "number_card": "18066521",
+    "items": [
+      {
+        "name": "Eye Care Softgel",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 2,
+        "_id": "689b047be7d17aea04a09058"
+      },
+      {
+        "name": "β-Carotene & Lycopene Capsule",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "689b047be7d17aea04a09059"
+      }
+    ],
+    "createdAt": "2025-08-12T09:08:11.764Z",
+    "updatedAt": "2025-08-12T09:08:11.764Z",
+    "__v": 0
+  },
+  {
+    "_id": "689c48c7b00e2b5a1eacb201",
+    "name": "RAKALAFARA Eujenie Pascaline",
+    "number_card": "18062751",
+    "items": [
+      {
+        "name": "Bone Care Plaster",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "689c48c7b00e2b5a1eacb202"
+      }
+    ],
+    "createdAt": "2025-08-13T08:11:52.035Z",
+    "updatedAt": "2025-08-13T08:11:52.035Z",
+    "__v": 0
+  },
+  {
+    "_id": "689c4b0db00e2b5a1eacb35d",
+    "name": "NOMENJANAHARY Jeanne Elodie Timothée",
+    "number_card": "18062797",
+    "items": [
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "689c4b0db00e2b5a1eacb35e"
+      }
+    ],
+    "createdAt": "2025-08-13T08:21:33.164Z",
+    "updatedAt": "2025-08-13T08:21:33.164Z",
+    "__v": 0
+  },
+  {
+    "_id": "689c4c4db00e2b5a1eacb5f4",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Intestine Cleansing Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "689c4c4db00e2b5a1eacb5f5"
+      },
+      {
+        "name": "Aloe Vera Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "689c4c4db00e2b5a1eacb5f6"
+      }
+    ],
+    "createdAt": "2025-08-13T08:26:53.502Z",
+    "updatedAt": "2025-08-13T08:26:53.502Z",
+    "__v": 0
+  },
+  {
+    "_id": "689c501cb00e2b5a1eacb74b",
+    "name": "FETRA Solofotiana",
+    "number_card": "18062799",
+    "items": [
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "689c501cb00e2b5a1eacb74c"
+      }
+    ],
+    "createdAt": "2025-08-13T08:43:08.810Z",
+    "updatedAt": "2025-08-13T08:43:08.810Z",
+    "__v": 0
+  },
+  {
+    "_id": "689c505cb00e2b5a1eacb89b",
+    "name": "RSAMISON Felaniaina Franck",
+    "number_card": "18063172",
+    "items": [
+      {
+        "name": "Kidney Tonifying Capsule Man",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "689c505cb00e2b5a1eacb89c"
+      },
+      {
+        "name": "Prostacare Capsule",
+        "bv": 33,
+        "price": 118800,
+        "quantity": 1,
+        "_id": "689c505cb00e2b5a1eacb89d"
+      },
+      {
+        "name": "Eye Care Softgel",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 1,
+        "_id": "689c505cb00e2b5a1eacb89e"
+      }
+    ],
+    "createdAt": "2025-08-13T08:44:12.271Z",
+    "updatedAt": "2025-08-13T08:44:12.271Z",
+    "__v": 0
+  },
+  {
+    "_id": "689c7e88b00e2b5a1eacbc8f",
+    "name": "RASOLOFONJANAHARY  Justin",
+    "number_card": "18008188",
+    "items": [
+      {
+        "name": "Zinc Tablet (for children)",
+        "bv": 9,
+        "price": 32400,
+        "quantity": 1,
+        "_id": "689c7e88b00e2b5a1eacbc90"
+      },
+      {
+        "name": "CoQ-10 Capsule",
+        "bv": 27,
+        "price": 97200,
+        "quantity": 1,
+        "_id": "689c7e88b00e2b5a1eacbc91"
+      }
+    ],
+    "createdAt": "2025-08-13T12:01:12.306Z",
+    "updatedAt": "2025-08-13T12:01:12.306Z",
+    "__v": 0
+  },
+  {
+    "_id": "689c9979b00e2b5a1eacbde4",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "689c9979b00e2b5a1eacbde5"
+      },
+      {
+        "name": "CoQ-10 Capsule",
+        "bv": 27,
+        "price": 97200,
+        "quantity": 1,
+        "_id": "689c9979b00e2b5a1eacbde6"
+      },
+      {
+        "name": "Kidney Tonifying Capsule Man",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "689c9979b00e2b5a1eacbde7"
+      },
+      {
+        "name": "Brain Care Capsule",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 1,
+        "_id": "689c9979b00e2b5a1eacbde8"
+      },
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "689c9979b00e2b5a1eacbde9"
+      },
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "689c9979b00e2b5a1eacbdea"
+      }
+    ],
+    "createdAt": "2025-08-13T13:56:09.931Z",
+    "updatedAt": "2025-08-13T13:56:09.931Z",
+    "__v": 0
+  },
+  {
+    "_id": "689d8e47b00e2b5a1eacbf43",
+    "name": "RAZANANAIVO  Fenonirina Seheno",
+    "number_card": "18032137",
+    "items": [
+      {
+        "name": "Vitamine E",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "689d8e47b00e2b5a1eacbf44"
+      },
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "689d8e47b00e2b5a1eacbf45"
+      },
+      {
+        "name": "Soy Power Capsule",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 1,
+        "_id": "689d8e47b00e2b5a1eacbf46"
+      }
+    ],
+    "createdAt": "2025-08-14T07:20:39.732Z",
+    "updatedAt": "2025-08-14T07:20:39.732Z",
+    "__v": 0
+  },
+  {
+    "_id": "689d9002b00e2b5a1eacc0a3",
+    "name": "HERIMIDOSY Philippe",
+    "number_card": "18032439",
+    "items": [
+      {
+        "name": "Vitamine C Tablet",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "689d9002b00e2b5a1eacc0a4"
+      },
+      {
+        "name": "Jiu Qing Qing (Wake)",
+        "bv": 10,
+        "price": 36000,
+        "quantity": 1,
+        "_id": "689d9002b00e2b5a1eacc0a5"
+      }
+    ],
+    "createdAt": "2025-08-14T07:28:02.878Z",
+    "updatedAt": "2025-08-14T07:28:02.878Z",
+    "__v": 0
+  },
+  {
+    "_id": "689d915cb00e2b5a1eacc204",
+    "name": "HERIMIDOSY Philippe",
+    "number_card": "18032439",
+    "items": [
+      {
+        "name": "Hangfang Beauty  Milk Soap (Olive soap)",
+        "bv": 1,
+        "price": 7200,
+        "quantity": 1,
+        "_id": "689d915cb00e2b5a1eacc205"
+      }
+    ],
+    "createdAt": "2025-08-14T07:33:48.976Z",
+    "updatedAt": "2025-08-14T07:33:48.976Z",
+    "__v": 0
+  },
+  {
+    "_id": "689d9919b00e2b5a1eacc36c",
+    "name": "RAJAONARIVONY Robert",
+    "number_card": "18046719",
+    "items": [
+      {
+        "name": "Balsam Pear Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "689d9919b00e2b5a1eacc36d"
+      },
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "689d9919b00e2b5a1eacc36e"
+      },
+      {
+        "name": "Blood Cleanse Capsule",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 1,
+        "_id": "689d9919b00e2b5a1eacc36f"
+      },
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "689d9919b00e2b5a1eacc370"
+      }
+    ],
+    "createdAt": "2025-08-14T08:06:49.189Z",
+    "updatedAt": "2025-08-14T08:06:49.189Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a4284f9bb44435f049fc00",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Royal Jelly Softgel",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68a4284f9bb44435f049fc01"
+      }
+    ],
+    "createdAt": "2025-08-19T07:31:27.135Z",
+    "updatedAt": "2025-08-19T07:31:27.135Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a42fee9bb44435f049fd65",
+    "name": "RAHARIVELO  Josiane Odette",
+    "number_card": "18066476",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68a42fee9bb44435f049fd66"
+      },
+      {
+        "name": "Cardio Power Capsule",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68a42fee9bb44435f049fd67"
+      },
+      {
+        "name": "Probiotic",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68a42fee9bb44435f049fd68"
+      },
+      {
+        "name": "Aloe Vera Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68a42fee9bb44435f049fd69"
+      },
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68a42fee9bb44435f049fd6a"
+      }
+    ],
+    "createdAt": "2025-08-19T08:03:58.562Z",
+    "updatedAt": "2025-08-19T08:03:58.562Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a430859bb44435f049fed8",
+    "name": "RAHARIVELO  Josiane Odette",
+    "number_card": "18066476",
+    "items": [
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68a430859bb44435f049fed9"
+      }
+    ],
+    "createdAt": "2025-08-19T08:06:29.856Z",
+    "updatedAt": "2025-08-19T08:06:29.856Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a45f369bb44435f04a0044",
+    "name": "RANDRIANANAHARY  Solo",
+    "number_card": "18032322",
+    "items": [
+      {
+        "name": "Energy Tea",
+        "bv": 15,
+        "price": 54000,
+        "quantity": 1,
+        "_id": "68a45f369bb44435f04a0045"
+      },
+      {
+        "name": "Ginko Biloba Capsule",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68a45f369bb44435f04a0046"
+      }
+    ],
+    "createdAt": "2025-08-19T11:25:42.536Z",
+    "updatedAt": "2025-08-19T11:25:42.536Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a59b8cbffe0d57631914dd",
+    "name": "RANDRIANANAHARY  Solo",
+    "number_card": "18032322",
+    "items": [
+      {
+        "name": "Kidney Tonifying Capsule Man",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "68a59b8cbffe0d57631914de"
+      }
+    ],
+    "createdAt": "2025-08-20T09:55:24.512Z",
+    "updatedAt": "2025-08-20T09:55:24.512Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a5a07dbffe0d576319164c",
+    "name": "RAVOSOANIRINA Olivia",
+    "number_card": "18061809",
+    "items": [
+      {
+        "name": "Clear Lung Tea",
+        "bv": 14,
+        "price": 50400,
+        "quantity": 1,
+        "_id": "68a5a07dbffe0d576319164d"
+      },
+      {
+        "name": "Jiu Qing Qing (Wake)",
+        "bv": 10,
+        "price": 36000,
+        "quantity": 1,
+        "_id": "68a5a07dbffe0d576319164e"
+      }
+    ],
+    "createdAt": "2025-08-20T10:16:29.410Z",
+    "updatedAt": "2025-08-20T10:16:29.410Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a5a1c7bffe0d57631917be",
+    "name": "RANDRIAMAMPIHANA Harivelo Mamitiana",
+    "number_card": "18061808",
+    "items": [
+      {
+        "name": "Intestine Cleansing Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "68a5a1c7bffe0d57631917bf"
+      }
+    ],
+    "createdAt": "2025-08-20T10:21:59.064Z",
+    "updatedAt": "2025-08-20T10:21:59.064Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a6c8b37168091c30779522",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Pine Pollen Tea",
+        "bv": 14,
+        "price": 50400,
+        "quantity": 1,
+        "_id": "68a6c8b37168091c30779523"
+      },
+      {
+        "name": "Prostacare Capsule",
+        "bv": 33,
+        "price": 118800,
+        "quantity": 1,
+        "_id": "68a6c8b37168091c30779524"
+      },
+      {
+        "name": "β-Carotene & Lycopene Capsule",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68a6c8b37168091c30779525"
+      },
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "68a6c8b37168091c30779526"
+      },
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68a6c8b37168091c30779527"
+      }
+    ],
+    "createdAt": "2025-08-21T07:20:19.187Z",
+    "updatedAt": "2025-08-21T07:20:19.187Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a6e37d7168091c3077969f",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Deep Sea Fish Oil Softgel (omega-3)",
+        "bv": 25,
+        "price": 90000,
+        "quantity": 1,
+        "_id": "68a6e37d7168091c307796a0"
+      },
+      {
+        "name": "Vitamine E",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68a6e37d7168091c307796a1"
+      }
+    ],
+    "createdAt": "2025-08-21T09:14:37.635Z",
+    "updatedAt": "2025-08-21T09:14:37.635Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a81811f028f90e34124d5a",
+    "name": "RABENANDRASANTSOA Eulanie",
+    "number_card": "18066506",
+    "items": [
+      {
+        "name": "Intestine Cleansing Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "68a81811f028f90e34124d5b"
+      },
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "68a81811f028f90e34124d5c"
+      },
+      {
+        "name": "Zinc Tablet (for children)",
+        "bv": 9,
+        "price": 32400,
+        "quantity": 1,
+        "_id": "68a81811f028f90e34124d5d"
+      },
+      {
+        "name": "Parashield Capsule",
+        "bv": 15,
+        "price": 54000,
+        "quantity": 1,
+        "_id": "68a81811f028f90e34124d5e"
+      },
+      {
+        "name": "Aloe Vera Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68a81811f028f90e34124d5f"
+      }
+    ],
+    "createdAt": "2025-08-22T07:11:13.612Z",
+    "updatedAt": "2025-08-22T07:11:13.612Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ad8317a83edca9f61b420b",
+    "name": "ANDRIANAIVOMALALA Vaniala Hortensia",
+    "number_card": "18060515",
+    "items": [
+      {
+        "name": "Spirulina Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68ad8317a83edca9f61b420c"
+      }
+    ],
+    "createdAt": "2025-08-26T09:49:11.237Z",
+    "updatedAt": "2025-08-26T09:49:11.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ad839ea83edca9f61b438b",
+    "name": "ANDRIANAIVOMALALA Vahatriniaina Francia",
+    "number_card": "18042301",
+    "items": [
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68ad839ea83edca9f61b438c"
+      }
+    ],
+    "createdAt": "2025-08-26T09:51:26.812Z",
+    "updatedAt": "2025-08-26T09:51:26.812Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ad83cfa83edca9f61b450b",
+    "name": "RAHELINIRINA Francine Marie Hortense",
+    "number_card": "18040678",
+    "items": [
+      {
+        "name": "Multi-Vitamin Tablet (for adults)",
+        "bv": 23,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68ad83cfa83edca9f61b450c"
+      }
+    ],
+    "createdAt": "2025-08-26T09:52:15.739Z",
+    "updatedAt": "2025-08-26T09:52:15.739Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ad8439a83edca9f61b468c",
+    "name": "RANDRIANASANDRATRATSOA Saotra Eniasy",
+    "number_card": "18043020",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68ad8439a83edca9f61b468d"
+      },
+      {
+        "name": "Cordyceps Plus Capsule",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68ad8439a83edca9f61b468e"
+      },
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "68ad8439a83edca9f61b468f"
+      }
+    ],
+    "createdAt": "2025-08-26T09:54:01.337Z",
+    "updatedAt": "2025-08-26T09:54:01.337Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ad869da83edca9f61b4812",
+    "name": "RALALASOA Brigitte",
+    "number_card": "18063183",
+    "items": [
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68ad869da83edca9f61b4813"
+      },
+      {
+        "name": "Cordyceps Plus Capsule",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68ad869da83edca9f61b4814"
+      }
+    ],
+    "createdAt": "2025-08-26T10:04:13.450Z",
+    "updatedAt": "2025-08-26T10:04:13.450Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ad9f33a83edca9f61b4b1b",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68ad9f33a83edca9f61b4b1c"
+      }
+    ],
+    "createdAt": "2025-08-26T11:49:07.131Z",
+    "updatedAt": "2025-08-26T11:49:07.131Z",
+    "__v": 0
+  },
+  {
+    "_id": "68aed442b88693be1c45ef65",
+    "name": "RAZANAMIANDRISOA Marie Claudine",
+    "number_card": "18066550",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68aed442b88693be1c45ef66"
+      },
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68aed442b88693be1c45ef67"
+      }
+    ],
+    "createdAt": "2025-08-27T09:47:46.113Z",
+    "updatedAt": "2025-08-27T09:47:46.113Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b005d9df850dc702f0f6ae",
+    "name": "RABENIAVY Manoha Ruffin",
+    "number_card": "18000204",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68b005d9df850dc702f0f6af"
+      }
+    ],
+    "createdAt": "2025-08-28T07:31:37.880Z",
+    "updatedAt": "2025-08-28T07:31:37.880Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b0079bdf850dc702f0f838",
+    "name": "CHAMI Rakotomalala",
+    "number_card": "18069900",
+    "items": [
+      {
+        "name": "Ginko Biloba Capsule",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68b0079bdf850dc702f0f839"
+      }
+    ],
+    "createdAt": "2025-08-28T07:39:07.185Z",
+    "updatedAt": "2025-08-28T07:39:07.185Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b00c5edf850dc702f0f9c2",
+    "name": "HENRI  QUERTHIRALLAH",
+    "number_card": "18066519",
+    "items": [
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "68b00c5edf850dc702f0f9c3"
+      },
+      {
+        "name": "Soy Power Capsule",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 1,
+        "_id": "68b00c5edf850dc702f0f9c4"
+      },
+      {
+        "name": "Cordyceps Plus Capsule",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68b00c5edf850dc702f0f9c5"
+      },
+      {
+        "name": "Vitamine E",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68b00c5edf850dc702f0f9c6"
+      },
+      {
+        "name": "Compound Calcium Vert",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b00c5edf850dc702f0f9c7"
+      }
+    ],
+    "createdAt": "2025-08-28T07:59:26.433Z",
+    "updatedAt": "2025-08-28T07:59:26.433Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b01507df850dc702f0fb5a",
+    "name": "TODISOA Narindraniaina Veronique",
+    "number_card": "18035054",
+    "items": [
+      {
+        "name": "Calcium Softgel (for adults)",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b01507df850dc702f0fb5b"
+      },
+      {
+        "name": "Pine Pollen Tea",
+        "bv": 14,
+        "price": 50400,
+        "quantity": 1,
+        "_id": "68b01507df850dc702f0fb5c"
+      },
+      {
+        "name": "Soy Power Capsule",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 1,
+        "_id": "68b01507df850dc702f0fb5d"
+      },
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "68b01507df850dc702f0fb5e"
+      },
+      {
+        "name": "Royal Jelly Softgel",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68b01507df850dc702f0fb5f"
+      },
+      {
+        "name": "Quick Absorption Blue Sanitary Napkin",
+        "bv": 2,
+        "price": 10000,
+        "quantity": 1,
+        "_id": "68b01507df850dc702f0fb60"
+      }
+    ],
+    "createdAt": "2025-08-28T08:36:23.567Z",
+    "updatedAt": "2025-08-28T08:36:23.567Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b031d1df850dc702f0fcf5",
+    "name": "RAJAONARIVELO Jean Yves",
+    "number_card": "1004212",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68b031d1df850dc702f0fcf6"
+      },
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68b031d1df850dc702f0fcf7"
+      },
+      {
+        "name": "Ginko Biloba Capsule",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68b031d1df850dc702f0fcf8"
+      },
+      {
+        "name": "Ishine Capsule (Anxiety)",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b031d1df850dc702f0fcf9"
+      },
+      {
+        "name": "Compound Calcium Vert",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b031d1df850dc702f0fcfa"
+      }
+    ],
+    "createdAt": "2025-08-28T10:39:13.695Z",
+    "updatedAt": "2025-08-28T10:39:13.695Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b19dcdcc5f831acd925b9c",
+    "name": "RANDRIANANAHARY  Solo",
+    "number_card": "18032322",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68b19dcdcc5f831acd925b9d"
+      }
+    ],
+    "createdAt": "2025-08-29T12:32:13.664Z",
+    "updatedAt": "2025-08-29T12:32:13.664Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b1a118cc5f831acd925d47",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Pro-slim Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68b1a118cc5f831acd925d48"
+      }
+    ],
+    "createdAt": "2025-08-29T12:46:16.813Z",
+    "updatedAt": "2025-08-29T12:46:16.813Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b5507a2929974ff81fb889",
+    "name": "MONJA Tsihala Justine",
+    "number_card": "18008184",
+    "items": [
+      {
+        "name": "Hangfang Beauty  Milk Soap (Olive soap)",
+        "bv": 1,
+        "price": 7200,
+        "quantity": 1,
+        "_id": "68b5507a2929974ff81fb88a"
+      }
+    ],
+    "createdAt": "2025-09-01T07:51:22.934Z",
+    "updatedAt": "2025-09-01T07:51:22.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b552aa2929974ff81fb91c",
+    "name": "RAZANAMIANDRISOA Marie Claudine",
+    "number_card": "18066550",
+    "items": [
+      {
+        "name": "Cardio Power Capsule",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68b552aa2929974ff81fb91d"
+      }
+    ],
+    "createdAt": "2025-09-01T08:00:42.456Z",
+    "updatedAt": "2025-09-01T08:00:42.456Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b55a792929974ff81fba49",
+    "name": "RAMERINA Heriniaina Landry Ferdinand",
+    "number_card": "18063173",
+    "items": [
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b55a792929974ff81fba4a"
+      },
+      {
+        "name": "Joint Health Capsule (Arthropower)",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 1,
+        "_id": "68b55a792929974ff81fba4b"
+      },
+      {
+        "name": "Digestant Tablet (Gastric Health)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "68b55a792929974ff81fba4c"
+      },
+      {
+        "name": "Protein Powder",
+        "bv": 35,
+        "price": 126000,
+        "quantity": 1,
+        "_id": "68b55a792929974ff81fba4d"
+      },
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68b55a792929974ff81fba4e"
+      }
+    ],
+    "createdAt": "2025-09-01T08:34:01.606Z",
+    "updatedAt": "2025-09-01T08:34:01.606Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b5638b2929974ff81fbae6",
+    "name": "RAOBELISON Fidy Denis Eric",
+    "number_card": "18041698",
+    "items": [
+      {
+        "name": "Engrais (Nutriplant)",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "68b5638b2929974ff81fbae7"
+      }
+    ],
+    "createdAt": "2025-09-01T09:12:43.537Z",
+    "updatedAt": "2025-09-01T09:12:43.537Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b57c452929974ff81fbb89",
+    "name": "RAHANTASOA Celine Louisette",
+    "number_card": "18063174",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68b57c452929974ff81fbb8a"
+      },
+      {
+        "name": "Ginko Biloba Capsule",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68b57c452929974ff81fbb8b"
+      },
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "68b57c452929974ff81fbb8c"
+      },
+      {
+        "name": "Balsam Pear Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "68b57c452929974ff81fbb8d"
+      },
+      {
+        "name": "Joint Health Capsule (Arthropower)",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 1,
+        "_id": "68b57c452929974ff81fbb8e"
+      },
+      {
+        "name": "Hepatsure Capsule",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68b57c452929974ff81fbb8f"
+      },
+      {
+        "name": "Probiotic",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68b57c452929974ff81fbb90"
+      },
+      {
+        "name": "Calcium Softgel (for adults)",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b57c452929974ff81fbb91"
+      }
+    ],
+    "createdAt": "2025-09-01T10:58:13.708Z",
+    "updatedAt": "2025-09-01T10:58:13.708Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b6b62f2929974ff81fbcd2",
+    "name": "RAKOTOMANANA Anthina Gorace",
+    "number_card": "18066455",
+    "items": [
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "68b6b62f2929974ff81fbcd3"
+      }
+    ],
+    "createdAt": "2025-09-02T09:17:35.393Z",
+    "updatedAt": "2025-09-02T09:17:35.393Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b6c86e2929974ff81fbd74",
+    "name": "RABENANDRASANTSOA Eulanie",
+    "number_card": "18066506",
+    "items": [
+      {
+        "name": "Toothpaste",
+        "bv": 7.5,
+        "price": 27000,
+        "quantity": 1,
+        "_id": "68b6c86e2929974ff81fbd75"
+      },
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b6c86e2929974ff81fbd76"
+      }
+    ],
+    "createdAt": "2025-09-02T10:35:26.730Z",
+    "updatedAt": "2025-09-02T10:35:26.730Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b7f2aab2940753d8fdfbd8",
+    "name": "ANDRIANARISOA Didier",
+    "number_card": "18063175",
+    "items": [
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b7f2aab2940753d8fdfbd9"
+      },
+      {
+        "name": "Parashield Capsule",
+        "bv": 15,
+        "price": 54000,
+        "quantity": 1,
+        "_id": "68b7f2aab2940753d8fdfbda"
+      },
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68b7f2aab2940753d8fdfbdb"
+      }
+    ],
+    "createdAt": "2025-09-03T07:47:54.961Z",
+    "updatedAt": "2025-09-03T07:47:54.961Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b7f333b2940753d8fdfc82",
+    "name": "RANDRIANANTENAINA Philemon",
+    "number_card": "18061955",
+    "items": [
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68b7f333b2940753d8fdfc83"
+      }
+    ],
+    "createdAt": "2025-09-03T07:50:11.875Z",
+    "updatedAt": "2025-09-03T07:50:11.875Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b7f62fb2940753d8fdfd2b",
+    "name": "ANDRIANARISOA Didier",
+    "number_card": "18063175",
+    "items": [
+      {
+        "name": "Cardio Power Capsule",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68b7f62fb2940753d8fdfd2c"
+      },
+      {
+        "name": "Blood Cleanse Capsule",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 1,
+        "_id": "68b7f62fb2940753d8fdfd2d"
+      }
+    ],
+    "createdAt": "2025-09-03T08:02:55.842Z",
+    "updatedAt": "2025-09-03T08:02:55.842Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b7fa5eb2940753d8fdfdd7",
+    "name": "RAZAFINDRAKOTO Jean Emile",
+    "number_card": "18061960",
+    "items": [
+      {
+        "name": "Bitter Buckwheat Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68b7fa5eb2940753d8fdfdd8"
+      },
+      {
+        "name": "Blood Cleanse Capsule",
+        "bv": 18,
+        "price": 64800,
+        "quantity": 1,
+        "_id": "68b7fa5eb2940753d8fdfdd9"
+      },
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68b7fa5eb2940753d8fdfdda"
+      },
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68b7fa5eb2940753d8fdfddb"
+      }
+    ],
+    "createdAt": "2025-09-03T08:20:46.952Z",
+    "updatedAt": "2025-09-03T08:20:46.952Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b7fc10b2940753d8fdfe88",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Cardio Power Capsule",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68b7fc10b2940753d8fdfe89"
+      },
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "68b7fc10b2940753d8fdfe8a"
+      },
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68b7fc10b2940753d8fdfe8b"
+      }
+    ],
+    "createdAt": "2025-09-03T08:28:00.231Z",
+    "updatedAt": "2025-09-03T08:28:00.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b7fe7cb2940753d8fe0145",
+    "name": "RAZAFINDRAKOTO Jean Emile",
+    "number_card": "18061960",
+    "items": [
+      {
+        "name": "Hangfang Beauty  Milk Soap (Olive soap)",
+        "bv": 1,
+        "price": 7200,
+        "quantity": 1,
+        "_id": "68b7fe7cb2940753d8fe0146"
+      }
+    ],
+    "createdAt": "2025-09-03T08:38:20.471Z",
+    "updatedAt": "2025-09-03T08:38:20.471Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b7ff10b2940753d8fe01f8",
+    "name": "RAZAFINDRAKOTO Jean Emile",
+    "number_card": "18061960",
+    "items": [
+      {
+        "name": "Hangfang Beauty  Milk Soap (Olive soap)",
+        "bv": 1,
+        "price": 7200,
+        "quantity": 1,
+        "_id": "68b7ff10b2940753d8fe01f9"
+      }
+    ],
+    "createdAt": "2025-09-03T08:40:48.054Z",
+    "updatedAt": "2025-09-03T08:40:48.054Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b802afb2940753d8fe0363",
+    "name": "RAHANTANIRINA Marie Antoinette",
+    "number_card": "18010897",
+    "items": [
+      {
+        "name": "Toothpaste",
+        "bv": 7.5,
+        "price": 27000,
+        "quantity": 1,
+        "_id": "68b802afb2940753d8fe0364"
+      }
+    ],
+    "createdAt": "2025-09-03T08:56:15.702Z",
+    "updatedAt": "2025-09-03T08:56:15.702Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b8131db2940753d8fe0418",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Ishine Capsule (Anxiety)",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b8131db2940753d8fe0419"
+      }
+    ],
+    "createdAt": "2025-09-03T10:06:21.416Z",
+    "updatedAt": "2025-09-03T10:06:21.416Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b819f5b2940753d8fe04cd",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "68b819f5b2940753d8fe04ce"
+      },
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68b819f5b2940753d8fe04cf"
+      }
+    ],
+    "createdAt": "2025-09-03T10:35:33.107Z",
+    "updatedAt": "2025-09-03T10:35:33.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b8233ab2940753d8fe058a",
+    "name": "RABAKOLIARISOA Saholiniaina Henriette",
+    "number_card": "18035042",
+    "items": [
+      {
+        "name": "Hangfang Beauty  Milk Soap (Olive soap)",
+        "bv": 1,
+        "price": 7200,
+        "quantity": 2,
+        "_id": "68b8233ab2940753d8fe058b"
+      }
+    ],
+    "createdAt": "2025-09-03T11:15:06.465Z",
+    "updatedAt": "2025-09-03T11:15:06.465Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b943436051c98f634ac41b",
+    "name": "RAHANTASOA Celine Louisette",
+    "number_card": "18063174",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68b943436051c98f634ac41c"
+      },
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "68b943436051c98f634ac41d"
+      },
+      {
+        "name": "Anti-Aging Capsule",
+        "bv": 32,
+        "price": 115200,
+        "quantity": 1,
+        "_id": "68b943436051c98f634ac41e"
+      }
+    ],
+    "createdAt": "2025-09-04T07:44:03.740Z",
+    "updatedAt": "2025-09-04T07:44:03.740Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b958726051c98f634ac706",
+    "name": "RAZAFIARISOA Marie Suzanne",
+    "number_card": "18063127",
+    "items": [
+      {
+        "name": "Ishine Capsule (Anxiety)",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b958726051c98f634ac707"
+      },
+      {
+        "name": "Soybean Lecithin Softgel",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68b958726051c98f634ac708"
+      }
+    ],
+    "createdAt": "2025-09-04T09:14:26.610Z",
+    "updatedAt": "2025-09-04T09:14:26.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b958cb6051c98f634ac7c5",
+    "name": "RAHANTASOA Celine Louisette",
+    "number_card": "18063174",
+    "items": [
+      {
+        "name": "Ishine Capsule (Anxiety)",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b958cb6051c98f634ac7c6"
+      },
+      {
+        "name": "Balsam Pear Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "68b958cb6051c98f634ac7c7"
+      },
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68b958cb6051c98f634ac7c8"
+      },
+      {
+        "name": "Ginko Biloba Capsule",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68b958cb6051c98f634ac7c9"
+      },
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "68b958cb6051c98f634ac7ca"
+      }
+    ],
+    "createdAt": "2025-09-04T09:15:55.343Z",
+    "updatedAt": "2025-09-04T09:15:55.343Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b97df36051c98f634aca0f",
+    "name": "FANOMEZANTSOA  Dieu Donné",
+    "number_card": "18063187",
+    "items": [
+      {
+        "name": "Clear Lung Tea",
+        "bv": 14,
+        "price": 50400,
+        "quantity": 1,
+        "_id": "68b97df36051c98f634aca10"
+      },
+      {
+        "name": "CoQ-10 Capsule",
+        "bv": 27,
+        "price": 97200,
+        "quantity": 1,
+        "_id": "68b97df36051c98f634aca11"
+      },
+      {
+        "name": "Super Nutrition Powder",
+        "bv": 46,
+        "price": 165600,
+        "quantity": 1,
+        "_id": "68b97df36051c98f634aca12"
+      }
+    ],
+    "createdAt": "2025-09-04T11:54:27.386Z",
+    "updatedAt": "2025-09-04T11:54:27.386Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b97e6b6051c98f634acc5d",
+    "name": "RALALASOA Brigitte",
+    "number_card": "18063183",
+    "items": [
+      {
+        "name": "Kidney Tonifying Capsule Man",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "68b97e6b6051c98f634acc5e"
+      }
+    ],
+    "createdAt": "2025-09-04T11:56:27.723Z",
+    "updatedAt": "2025-09-04T11:56:27.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "68b980336051c98f634acd2b",
+    "name": "RABENANDRASANA Gidort",
+    "number_card": "18066505",
+    "items": [
+      {
+        "name": "Pine Pollen Tea",
+        "bv": 14,
+        "price": 50400,
+        "quantity": 1,
+        "_id": "68b980336051c98f634acd2c"
+      },
+      {
+        "name": "Chitosan Capsule",
+        "bv": 24,
+        "price": 86400,
+        "quantity": 1,
+        "_id": "68b980336051c98f634acd2d"
+      },
+      {
+        "name": "Prostacare Capsule",
+        "bv": 33,
+        "price": 118800,
+        "quantity": 1,
+        "_id": "68b980336051c98f634acd2e"
+      },
+      {
+        "name": "β-Carotene & Lycopene Capsule",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68b980336051c98f634acd2f"
+      },
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "68b980336051c98f634acd30"
+      }
+    ],
+    "createdAt": "2025-09-04T12:04:03.034Z",
+    "updatedAt": "2025-09-04T12:04:03.034Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ba98576051c98f634ace04",
+    "name": "RANDRIAMAMPIANINA Velonjanahary",
+    "number_card": "18017908",
+    "items": [
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68ba98576051c98f634ace05"
+      },
+      {
+        "name": "Eye Care Softgel",
+        "bv": 28,
+        "price": 100800,
+        "quantity": 1,
+        "_id": "68ba98576051c98f634ace06"
+      },
+      {
+        "name": "See",
+        "bv": 10,
+        "price": 36000,
+        "quantity": 1,
+        "_id": "68ba98576051c98f634ace07"
+      },
+      {
+        "name": "Anti-Aging Capsule",
+        "bv": 32,
+        "price": 115200,
+        "quantity": 1,
+        "_id": "68ba98576051c98f634ace08"
+      },
+      {
+        "name": "β-Carotene & Lycopene Capsule",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68ba98576051c98f634ace09"
+      }
+    ],
+    "createdAt": "2025-09-05T07:59:19.073Z",
+    "updatedAt": "2025-09-05T07:59:19.073Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ba9fe06051c98f634aced9",
+    "name": "ANDRIAMBOLOLONA Tsira Andrianina",
+    "number_card": "10363848",
+    "items": [
+      {
+        "name": "Zinc Tablet (for adults)",
+        "bv": 16,
+        "price": 57600,
+        "quantity": 1,
+        "_id": "68ba9fe06051c98f634aceda"
+      },
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68ba9fe06051c98f634acedb"
+      },
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68ba9fe06051c98f634acedc"
+      },
+      {
+        "name": "Jiu Qing Qing (Wake)",
+        "bv": 10,
+        "price": 36000,
+        "quantity": 2,
+        "_id": "68ba9fe06051c98f634acedd"
+      }
+    ],
+    "createdAt": "2025-09-05T08:31:28.694Z",
+    "updatedAt": "2025-09-05T08:31:28.694Z",
+    "__v": 0
+  },
+  {
+    "_id": "68bea5bb180f92f75f88c718",
+    "name": "MONJA Tsihala Justine",
+    "number_card": "18008184",
+    "items": [
+      {
+        "name": "Bitter Buckwheat Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68bea5bb180f92f75f88c719"
+      },
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68bea5bb180f92f75f88c71a"
+      },
+      {
+        "name": "Cardio Power Capsule",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68bea5bb180f92f75f88c71b"
+      },
+      {
+        "name": "Ginko Biloba Capsule",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68bea5bb180f92f75f88c71c"
+      },
+      {
+        "name": "Spirulina Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68bea5bb180f92f75f88c71d"
+      },
+      {
+        "name": "Deep Sea Fish Oil Softgel (omega-3)",
+        "bv": 25,
+        "price": 90000,
+        "quantity": 1,
+        "_id": "68bea5bb180f92f75f88c71e"
+      }
+    ],
+    "createdAt": "2025-09-08T09:45:31.936Z",
+    "updatedAt": "2025-09-08T09:45:31.936Z",
+    "__v": 0
+  },
+  {
+    "_id": "68beaa88180f92f75f88c7f8",
+    "name": "MONJA Tsihala Justine",
+    "number_card": "18008184",
+    "items": [
+      {
+        "name": "Balsam Pear Tea",
+        "bv": 13,
+        "price": 46800,
+        "quantity": 1,
+        "_id": "68beaa88180f92f75f88c7f9"
+      },
+      {
+        "name": "Garlic Oil Softgel",
+        "bv": 22.5,
+        "price": 82800,
+        "quantity": 1,
+        "_id": "68beaa88180f92f75f88c7fa"
+      },
+      {
+        "name": "Blueberry Juice Granules",
+        "bv": 22,
+        "price": 79200,
+        "quantity": 1,
+        "_id": "68beaa88180f92f75f88c7fb"
+      },
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68beaa88180f92f75f88c7fc"
+      }
+    ],
+    "createdAt": "2025-09-08T10:06:00.254Z",
+    "updatedAt": "2025-09-08T10:06:00.254Z",
+    "__v": 0
+  },
+  {
+    "_id": "68beacda180f92f75f88c8da",
+    "name": "MONJA Tsihala Justine",
+    "number_card": "18008184",
+    "items": [
+      {
+        "name": "Deep Sea Fish Oil Softgel (omega-3)",
+        "bv": 25,
+        "price": 90000,
+        "quantity": 1,
+        "_id": "68beacda180f92f75f88c8db"
+      },
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68beacda180f92f75f88c8dc"
+      }
+    ],
+    "createdAt": "2025-09-08T10:15:54.839Z",
+    "updatedAt": "2025-09-08T10:15:54.839Z",
+    "__v": 0
+  },
+  {
+    "_id": "68bfe641babffb7369f0fa8b",
+    "name": "RANDRIAMAMPIHANA Harivelo Mamitiana",
+    "number_card": "18061808",
+    "items": [
+      {
+        "name": "Spirulina Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68bfe641babffb7369f0fa8c"
+      }
+    ],
+    "createdAt": "2025-09-09T08:33:05.079Z",
+    "updatedAt": "2025-09-09T08:33:05.079Z",
+    "__v": 0
+  },
+  {
+    "_id": "68bff531babffb7369f0fb6d",
+    "name": "RASOARIVOLOLONA Sabine",
+    "number_card": "18040696",
+    "items": [
+      {
+        "name": "Kuding Plus Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68bff531babffb7369f0fb6e"
+      },
+      {
+        "name": "Cardio Power Capsule",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68bff531babffb7369f0fb6f"
+      }
+    ],
+    "createdAt": "2025-09-09T09:36:49.368Z",
+    "updatedAt": "2025-09-09T09:36:49.368Z",
+    "__v": 0
+  },
+  {
+    "_id": "68c009c4babffb7369f0fe1a",
+    "name": "AINA NOMENJANAHARY Tefiravaka Martial",
+    "number_card": "18063176",
+    "items": [
+      {
+        "name": "Bitter Buckwheat Tea",
+        "bv": 12,
+        "price": 43200,
+        "quantity": 1,
+        "_id": "68c009c4babffb7369f0fe1b"
+      },
+      {
+        "name": "Cardio Power Capsule",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68c009c4babffb7369f0fe1c"
+      },
+      {
+        "name": "Magic Detoxin Pad",
+        "bv": 20,
+        "price": 72000,
+        "quantity": 1,
+        "_id": "68c009c4babffb7369f0fe1d"
+      },
+      {
+        "name": "Deep Sea Fish Oil Softgel (omega-3)",
+        "bv": 25,
+        "price": 90000,
+        "quantity": 1,
+        "_id": "68c009c4babffb7369f0fe1e"
+      },
+      {
+        "name": "Spirulina Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68c009c4babffb7369f0fe1f"
+      }
+    ],
+    "createdAt": "2025-09-09T11:04:36.197Z",
+    "updatedAt": "2025-09-09T11:04:36.197Z",
+    "__v": 0
+  },
+  {
+    "_id": "68c02580babffb7369f0fff1",
+    "name": "HOLIARIMANANA Sidonie",
+    "number_card": "18061881",
+    "items": [
+      {
+        "name": "Engrais (Nutriplant)",
+        "bv": 30,
+        "price": 108000,
+        "quantity": 1,
+        "_id": "68c02580babffb7369f0fff2"
+      }
+    ],
+    "createdAt": "2025-09-09T13:02:56.794Z",
+    "updatedAt": "2025-09-09T13:02:56.794Z",
+    "__v": 0
+  },
+  {
+    "_id": "68c135a840c6f1dc0b4fba3f",
+    "name": "RANDRIANIAINA Fanomezantsoa Simon",
+    "number_card": "18066567",
+    "items": [
+      {
+        "name": "Cardio Power Capsule",
+        "bv": 19,
+        "price": 68400,
+        "quantity": 1,
+        "_id": "68c135a840c6f1dc0b4fba40"
+      },
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68c135a840c6f1dc0b4fba41"
+      },
+      {
+        "name": "Spirulina Plus Capsule",
+        "bv": 21,
+        "price": 75600,
+        "quantity": 1,
+        "_id": "68c135a840c6f1dc0b4fba42"
+      },
+      {
+        "name": "Hangfang Beauty  Milk Soap (Olive soap)",
+        "bv": 1,
+        "price": 7200,
+        "quantity": 1,
+        "_id": "68c135a840c6f1dc0b4fba43"
+      }
+    ],
+    "createdAt": "2025-09-10T08:24:08.170Z",
+    "updatedAt": "2025-09-10T08:24:08.170Z",
+    "__v": 0
+  },
+  {
+    "_id": "68c1385e40c6f1dc0b4fbb2f",
+    "name": "HARINANDRASANA Fenosoa Safidy",
+    "number_card": "18066548",
+    "items": [
+      {
+        "name": "Jiu Qing Qing (Wake)",
+        "bv": 10,
+        "price": 36000,
+        "quantity": 1,
+        "_id": "68c1385e40c6f1dc0b4fbb30"
+      }
+    ],
+    "createdAt": "2025-09-10T08:35:42.943Z",
+    "updatedAt": "2025-09-10T08:35:42.943Z",
+    "__v": 0
+  },
+  {
+    "_id": "68c13e8d40c6f1dc0b4fbc1e",
+    "name": "ANDRIANAIVOMALALA Vahatriniaina Francia",
+    "number_card": "18042301",
+    "items": [
+      {
+        "name": "Compound Marrow Powder",
+        "bv": 26,
+        "price": 93600,
+        "quantity": 1,
+        "_id": "68c13e8d40c6f1dc0b4fbc1f"
+      }
+    ],
+    "createdAt": "2025-09-10T09:02:05.657Z",
+    "updatedAt": "2025-09-10T09:02:05.657Z",
+    "__v": 0
+  }
+]

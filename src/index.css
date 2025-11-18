@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@layer base {
+    h1 {
+        @apply text-2xl text-gray-600 font-semibold;
+    }
+    h2 {
+        @apply text-gray-600
+    }
+    button {
+        @apply cursor-pointer select-none;
+    }
+    form {
+        @apply flex flex-col gap-2;
+    }
+    form input[type="text"] {
+        @apply text-gray-700 border border-gray-300 rounded-lg px-3 py-1 focus:outline-none focus:ring-2 focus:ring-cyan-300 transition;
+    }
+    form input[type="submit"] {
+        @apply bg-gray-900 text-white text-base p-1 rounded-lg cursor-pointer hover:bg-gray-800 transition
+    }
+    p {
+        @apply text-gray-700
+    }
+    hr {
+        @apply border-gray-400 mx-4
+    }
+}
+
+@layer components {
+    .utilsBtn {
+        @apply bg-black/10 h-6 w-6 min-w-6 rounded-lg text-gray-500 hover:bg-black/20 hover:text-gray-700 transition grid place-items-center
+    }
+    .btn {
+        @apply bg-gray-100 p-2 font-semibold rounded-lg text-gray-500 hover:bg-gray-200 hover:text-gray-700 transition
+    }
+    .optionMenuBtn {
+        @apply bg-transparent hover:bg-gray-200 w-full p-1 rounded-lg transition text-start flex justify-between items-center
+    }
+}
+
+/* Style global pour toutes les scrollbars */
+::-webkit-scrollbar {
+    width: 6px;   /* largeur verticale */
+    height: 6px;  /* hauteur horizontale */
+}
+
+::-webkit-scrollbar-track {
+    background: transparent; /* pas de fond gênant */
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(100, 100, 100, 0.3); /* gris léger */
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(100, 100, 100, 0.5); /* un peu plus visible au hover */
+}
+
+/* Pour Firefox */
+* {
+    scrollbar-width: thin;              /* fine */
+    scrollbar-color: rgba(100, 100, 100, 0.3) transparent; /* pouce / fond */
+}
